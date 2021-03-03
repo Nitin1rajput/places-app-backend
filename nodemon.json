@@ -1,0 +1,10 @@
+{
+    "env": {
+        "DB_USER":"nitin",
+        "DB_PASSWORD":"Nitin@8944",
+        "DB_NAME":"test",
+        "MAPBOX_TOKEN": "pk.eyJ1Ijoibml0aW4xcmFqcHV0IiwiYSI6ImNrajJsZTl1MDNjcjYyeW40eXYyM2U0bGoifQ.-9ed24980cXOJDcDk8ZEXg",
+        "MAPBOX_API":"...",
+        "JWT_SECRET": "supersecret_dont_share"
+    }
+}
